@@ -1,0 +1,13 @@
+gitdb==4.0.7
+GitPython==3.1.17
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.2
+pandocfilters==1.4.3
+pickleshare==0.7.5
+Pillow==8.1.0
+pipreqs==0.4.10
+scikit-learn==0.24.1
+scipy==1.6.2
+sklearn==0.0
+streamlit==0.83.0
